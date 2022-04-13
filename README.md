@@ -1,2 +1,0 @@
-# Vabene
-Site rápido.
